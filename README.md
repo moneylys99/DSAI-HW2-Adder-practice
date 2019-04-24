@@ -2,7 +2,7 @@
 # DSAI HW2  
 ## Chien, Hsin Yen
 ### RE6071088, Institute of Data Science  
-
+### https://nbviewer.jupyter.org/github/moneylys99/DSAI-HW2-Adder-practice/blob/master/Addition_re6071088.ipynb
 
 ```python
 from keras.models import Sequential
