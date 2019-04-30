@@ -1,7 +1,7 @@
 
 # DSAI HW2: Adder & Subtractor Practice by LSTM     
 ## Chien, Hsin Yen
-### RE6071088, Institute of Data Science  
+### RE6071088, Institute of Data Science, NCKU  
 ### https://nbviewer.jupyter.org/github/moneylys99/DSAI-HW2-Adder-practice/blob/master/Adder_Subtractor_re6071088.ipynb
 
 Data Generation: 80000 data for adder, 80000 data for subtractor  
